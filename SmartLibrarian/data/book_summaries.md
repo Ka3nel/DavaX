@@ -1,34 +1,51 @@
 # Smart Librarian — Book Summaries (KB)
 
-## Title: 1984
-A dystopian novel about a totalitarian regime where surveillance, propaganda, and censorship dominate society. Winston Smith rebels in search of truth and freedom.
+## Title: 1984 – George Orwell
+In this dystopian classic, George Orwell presents a terrifying vision of a future where the state exercises total control over every aspect of life. Citizens live under the watchful eye of “Big Brother,” where constant surveillance, propaganda, and fear suppress individuality and truth.
+The protagonist, Winston Smith, works at the Ministry of Truth, rewriting historical records to fit the Party’s narrative. Although outwardly obedient, Winston quietly longs for freedom and truth. His forbidden love affair with Julia becomes an act of rebellion, but ultimately, the crushing power of the Party exposes how fragile human resistance can be.
+The novel explores themes of censorship, authoritarianism, manipulation, and the fragility of freedom, making it one of the most powerful warnings against totalitarian regimes.
 
-## Title: The Hobbit
-A fantasy adventure where Bilbo Baggins, a hobbit, joins dwarves to reclaim treasure from the dragon Smaug. Themes: courage, friendship, self-discovery.
+## Title: The Hobbit – J.R.R. Tolkien
+Bilbo Baggins, a comfort-loving hobbit, lives a quiet life in the Shire until the wizard Gandalf and a band of dwarves recruit him for an adventure. Their quest: reclaim the dwarves’ homeland and treasure from the mighty dragon Smaug.
+Though reluctant at first, Bilbo grows into an unlikely hero, relying on wit and courage rather than brute strength. Along the journey, he encounters trolls, goblins, elves, and discovers the mysterious One Ring that will later shape the events of The Lord of the Rings.
+The novel is a timeless tale of friendship, bravery, and self-discovery, blending whimsical humor with epic adventure.
 
-## Title: To Kill a Mockingbird
-Set in the American South during the Great Depression. Scout Finch watches her father Atticus defend a Black man wrongly accused of a crime. Themes: justice, morality, racial prejudice.
+## Title: To Kill a Mockingbird – Harper Lee
+Set in the racially divided American South of the 1930s, this novel follows Scout Finch, a young girl growing up in the town of Maycomb, Alabama. Through her eyes, readers witness the trial of a Black man falsely accused of raping a white woman, defended by her father, Atticus Finch.
+The book captures themes of racial injustice, moral courage, and compassion. Scout’s childhood innocence contrasts with the prejudice and cruelty of adults, while Atticus stands as a moral compass, teaching his children empathy and fairness.
+Both a coming-of-age story and a critique of systemic racism, this book remains a cornerstone of modern literature.
 
-## Title: Pride and Prejudice
-A romantic novel about Elizabeth Bennet and Mr. Darcy, exploring love, class, family, and personal growth.
+## Title: Pride and Prejudice – Jane Austen
+Elizabeth Bennet, an intelligent and strong-willed young woman, navigates family expectations, class differences, and the intricacies of love in 19th-century England. The arrival of wealthy bachelor Mr. Darcy sparks tension, misunderstandings, and eventually a romance that challenges their pride and prejudices.
+Austen’s novel is not only a witty love story but also a sharp social commentary on marriage, class, and gender roles of her time.
+Its enduring charm lies in Elizabeth’s wit, Darcy’s transformation, and the timeless struggle between social expectations and personal happiness.
 
-## Title: Harry Potter and the Sorcerer’s Stone
-A boy discovers he is a wizard and attends Hogwarts. Themes: friendship, bravery, belonging, good vs. evil.
+## Title: The Great Gatsby – F. Scott Fitzgerald
+Set during the Roaring Twenties, the novel tells the story of Jay Gatsby, a mysterious millionaire who throws lavish parties in pursuit of his lost love, Daisy Buchanan. Narrated by Nick Carraway, a Yale graduate who becomes Gatsby’s neighbor, the story uncovers themes of wealth, obsession, and the disillusionment of the American Dream.
+Beneath the glittering surface of the Jazz Age lies emptiness and moral decay, symbolized in Gatsby’s tragic pursuit of an unattainable ideal.
+The novel remains a poignant critique of ambition, illusion, and the cost of chasing dreams.
 
-## Title: The Great Gatsby
-Nick Carraway narrates Jay Gatsby’s pursuit of Daisy Buchanan. Themes: wealth, ambition, illusion, and the American Dream.
+## Title: Harry Potter and the Sorcerer’s Stone – J.K. Rowling
+Harry Potter, an orphan living with cruel relatives, discovers on his 11th birthday that he is a wizard. Invited to study at Hogwarts School of Witchcraft and Wizardry, Harry enters a world of magic, friendship, and hidden danger.
+With friends Ron and Hermione, he uncovers the mystery of the Sorcerer’s Stone and faces Lord Voldemort, the dark wizard who killed his parents.
+The book explores themes of friendship, courage, and the fight between good and evil, marking the beginning of one of the most beloved fantasy series of all time.
 
-## Title: The Catcher in the Rye
-Holden Caulfield, alienated and grieving, wanders New York City reflecting on identity and innocence.
+## Title: The Catcher in the Rye – J.D. Salinger
+Narrated by Holden Caulfield, a disillusioned teenager wandering New York City, the novel captures the confusion and alienation of adolescence. Holden’s cynical outlook contrasts with his deep longing for innocence, embodied in his younger sister Phoebe.
+The book explores themes of identity, authenticity, and the struggle to find meaning in a world full of “phoniness.”
+Its raw, conversational style and timeless exploration of youth make it one of the most iconic novels of the 20th century.
 
-## Title: The Fellowship of the Ring
-Frodo begins the quest to destroy the One Ring with the help of a fellowship. Themes: friendship, sacrifice, good vs. evil.
+## Title: Brave New World – Aldous Huxley
+In a futuristic society engineered for stability, humans are bred and conditioned into rigid social classes. Pleasure and consumption are prioritized, and individuality is suppressed.
+The story follows Bernard Marx and John “the Savage,” whose perspectives challenge the cost of a world without pain, but also without freedom, art, or true human connection.
+Huxley’s chilling vision raises questions about technology, conformity, and what it means to be truly human.
 
-## Title: Animal Farm
-Animals overthrow humans to create equality; the pigs slowly become dictators. Themes: corruption, power, revolution.
+## Title: Moby-Dick – Herman Melville
+Captain Ahab, obsessed with revenge against the great white whale that maimed him, drives his crew on the Pequod into a relentless pursuit across the seas. Ishmael, the novel’s reflective narrator, provides philosophical insights into obsession, nature, and human destiny.
+The novel blends adventure, allegory, and deep symbolism, exploring humanity’s struggle against forces beyond control.
+Though a challenging read, Moby-Dick remains a monumental work of American literature.
 
-## Title: Brave New World
-A futuristic society of engineered comfort and control suppresses individuality. Themes: conformity and freedom.
-
-## Title: The Little Prince
-A poetic story about a young prince who visits planets and learns about love and responsibility.
+## Title: Crime and Punishment – Fyodor Dostoevsky
+Rodion Raskolnikov, a poor ex-student in St. Petersburg, believes he can justify murdering a corrupt pawnbroker in the name of a higher good. Yet after the crime, he is consumed by guilt, paranoia, and inner torment.
+The novel examines morality, redemption, and the psychological burden of sin. Raskolnikov’s eventual confession and spiritual renewal highlight Dostoevsky’s exploration of human conscience and faith.
+It remains one of the most profound psychological novels ever written.
